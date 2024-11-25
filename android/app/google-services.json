@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "736852097140",
+    "project_id": "riusociety-47b1e",
+    "storage_bucket": "riusociety-47b1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736852097140:android:ef41434edd7f3a4df47921",
+        "android_client_info": {
+          "package_name": "com.example.riu_society"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736852097140-g97svof54puvdv6oeou1blvvevqffd0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riu_society",
+            "certificate_hash": "bf477931a203442b97268965f16d6b6876c8169b"
+          }
+        },
+        {
+          "client_id": "736852097140-fu68qf7dtujg4td4lj8scjaglhabuoqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM_AAXV0XNyPONT_zW6i80d-uE-gk_0jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736852097140-7qratfg5m56drdctqha3m7p1kpbl2mrf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "736852097140-dpacjquv3ap3km952u3f9lh1vb0556au.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.riuSociety"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
